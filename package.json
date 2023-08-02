@@ -1,0 +1,12 @@
+{
+  "name": "app_U-C_TODO_frontend",
+  "version": "1.0.0",
+  "description": "this is the frontend React.js application source code using JavaScript for full-stack TODO application from U_C",
+  "main": "index.js",
+  "repository": "git@quantum_adrenaline_1.github.com:React-JS-Frontend-Avengers/uc_frontend_todo_java_spring-boot_full_stack_app.git",
+  "author": "quantum_adrenaline_1",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^4.4.8"
+  }
+}
