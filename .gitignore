@@ -1,0 +1,24 @@
+# Logs
+U-C_TODO_fronten/dlogs
+U-C_TODO_fronten/*.log
+U-C_TODO_fronten/npm-debug.log*
+U-C_TODO_fronten/yarn-debug.log*
+U-C_TODO_fronten/yarn-error.log*
+U-C_TODO_fronten/pnpm-debug.log*
+U-C_TODO_fronten/lerna-debug.log*
+
+U-C_TODO_fronten/node_modules
+U-C_TODO_fronten/dist
+U-C_TODO_fronten/dist-ssr
+U-C_TODO_fronten/*.local
+
+# Editor directories and files
+U-C_TODO_fronten/.vscode/*
+U-C_TODO_fronten/!.vscode/extensions.json
+U-C_TODO_fronten/.idea
+U-C_TODO_fronten/.DS_Store
+U-C_TODO_fronten/*.suo
+U-C_TODO_fronten/*.ntvs*
+U-C_TODO_fronten/*.njsproj
+U-C_TODO_fronten/*.sln
+U-C_TODO_fronten/*.sw?
