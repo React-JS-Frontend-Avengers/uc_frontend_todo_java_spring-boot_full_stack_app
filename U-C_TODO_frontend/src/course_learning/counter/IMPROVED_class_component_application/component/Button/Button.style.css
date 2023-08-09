@@ -1,0 +1,8 @@
+.operation-button {
+    width: 150px;
+    height: 55px;
+    background-color: green;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
