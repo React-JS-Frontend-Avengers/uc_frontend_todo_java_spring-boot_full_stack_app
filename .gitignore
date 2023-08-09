@@ -1,24 +1,28 @@
 # Logs
-U-C_TODO_fronten/dlogs
-U-C_TODO_fronten/*.log
-U-C_TODO_fronten/npm-debug.log*
-U-C_TODO_fronten/yarn-debug.log*
-U-C_TODO_fronten/yarn-error.log*
-U-C_TODO_fronten/pnpm-debug.log*
-U-C_TODO_fronten/lerna-debug.log*
+U-C_TODO_frontend/dlogs
+U-C_TODO_frontend/*.log
+U-C_TODO_frontend/npm-debug.log*
+U-C_TODO_frontend/yarn-debug.log*
+U-C_TODO_frontend/yarn-error.log*
+U-C_TODO_frontend/pnpm-debug.log*
+U-C_TODO_frontend/lerna-debug.log*
 
-U-C_TODO_fronten/node_modules
-U-C_TODO_fronten/dist
-U-C_TODO_fronten/dist-ssr
-U-C_TODO_fronten/*.local
+U-C_TODO_frontend/node_modules
+U-C_TODO_frontend/dist
+U-C_TODO_frontend/dist-ssr
+U-C_TODO_frontend/*.local
 
 # Editor directories and files
-U-C_TODO_fronten/.vscode/*
-U-C_TODO_fronten/!.vscode/extensions.json
-U-C_TODO_fronten/.idea
-U-C_TODO_fronten/.DS_Store
-U-C_TODO_fronten/*.suo
-U-C_TODO_fronten/*.ntvs*
-U-C_TODO_fronten/*.njsproj
-U-C_TODO_fronten/*.sln
-U-C_TODO_fronten/*.sw?
+U-C_TODO_frontend/.vscode/*
+U-C_TODO_frontend/!.vscode/extensions.json
+U-C_TODO_frontend/.idea
+U-C_TODO_frontend/.DS_Store
+U-C_TODO_frontend/*.suo
+U-C_TODO_frontend/*.ntvs*
+U-C_TODO_frontend/*.njsproj
+U-C_TODO_frontend/*.sln
+U-C_TODO_frontend/*.sw?
+
+**/node_modules/**
+
+
