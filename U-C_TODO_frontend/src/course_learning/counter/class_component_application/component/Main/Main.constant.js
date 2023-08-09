@@ -1,0 +1,4 @@
+export default {
+  OPERATION_RESULT_INIT: 0,
+  RESULT_RESET_VALUE: 0,
+};
