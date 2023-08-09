@@ -1,0 +1,23 @@
+.operating-numbers-grid {
+    margin-top: 70px;
+}
+
+.operation-result {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 300px;
+}
+
+.reset-operation-result {
+    display: flex;
+    justify-content: center;
+}
+
+.reset-operation-result-button {
+    width: 250px;
+    height: 65px;
+    color: white;
+    background-color: red;
+    font-size: 18px;
+}
