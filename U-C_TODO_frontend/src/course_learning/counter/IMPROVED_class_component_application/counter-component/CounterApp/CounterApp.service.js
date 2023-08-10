@@ -1,4 +1,4 @@
-import AppConstants from "./App.constant.js";
+import AppConstants from "./CounterApp.constant.js";
 
 export function resetButtonPress(resetButtonClickEventObj) {
   this.setState((previousState) => {
