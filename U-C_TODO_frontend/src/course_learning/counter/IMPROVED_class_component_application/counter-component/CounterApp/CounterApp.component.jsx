@@ -1,7 +1,10 @@
 import React, { Component } from "react";
-import "./App.style.css";
-import AppConstants from "./App.constant.js";
-import { resetButtonPress, updateOperationResult } from "./App.service.js";
+import "./CounterApp.style.css";
+import AppConstants from "./CounterApp.constant.js";
+import {
+  resetButtonPress,
+  updateOperationResult,
+} from "./CounterApp.service.js";
 import OperationPanel from "../OperationPanel/OperationPanel.component.jsx";
 
 export default class App extends Component {

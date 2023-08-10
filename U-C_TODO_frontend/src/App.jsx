@@ -1,9 +1,10 @@
 import React, { Component } from "react";
-import Counter from "./course_learning/counter/JS-style-for-modularity-improved-code/index.component.jsx";
+
+import CounterApp from "./course_learning/counter/IMPROVED_class_component_application/Counter.index.jsx";
 import "./App.css";
 
 export default class App extends Component {
   render() {
-    return <Counter />;
+    return <CounterApp />;
   }
 }
